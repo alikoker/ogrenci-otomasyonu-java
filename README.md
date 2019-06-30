@@ -1,8 +1,3 @@
----
-
-
----
-
 <p><strong>Java Programlama Dili ile Öğrenci Otomasyonu</strong></p>
 <p><strong>Daha önce C++ ile geliştirdiğim öğrenci otomasyonunun Java sürümü.</strong></p>
 <p><img src="https://cdn-images-1.medium.com/max/1500/1*8DItHyLxeJwwbYzzTVGKlg.jpeg" alt=""></p>
@@ -25,4 +20,3 @@
 <p>admin</p>
 <p><strong>Referanslar</strong></p>
 <p><a href="http://www.indir.com/koker-ogrenci-otomasyonu-java">indir.com</a></p>
-
